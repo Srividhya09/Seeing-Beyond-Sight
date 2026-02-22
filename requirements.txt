@@ -1,0 +1,22 @@
+# Core framework
+streamlit==1.38.0
+
+# AI / ML
+ultralytics==8.2.90
+google-generativeai==0.5.2
+langchain-google-genai==1.0.8
+langchain-core==0.2.38
+
+# Image processing
+Pillow==10.3.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+
+# OCR
+pytesseract==0.3.10
+
+# Speech processing
+speechrecognition==3.10.1
+pyttsx3==2.90
+pyaudio==0.2.14
+gTTS==2.5.3
